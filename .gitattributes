@@ -1,3 +1,4 @@
 *.js linguist-language=1C
 *.css linguist-language=1C
 *.html linguist-language=1C
+*.cf linguist-language=1C
