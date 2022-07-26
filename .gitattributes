@@ -1,2 +1,1 @@
-*.cf linguist-detectable=true
-*.cf linguist-language=1c
+*.* linguist-language=1c
