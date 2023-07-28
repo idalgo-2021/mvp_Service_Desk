@@ -1,6 +1,5 @@
-"# mvp_Service_Desk (1С)"
-
-"Service Desk (prototype for industrial solution selection)"
+# mvp_Service_Desk (1С)
+"Service Desk (prototype for industrial solution selection, and for make a requirements)"
 
 * Конфигурация 'Учет обращений в Service Desk' (languages - RUS\ENG\ARABIC)
 * Статья на русском языке: https://infostart.ru/public/1524348/
