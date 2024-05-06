@@ -14,7 +14,10 @@
 - Программа разработана с использованием технологии обычных форм 1С:Предприятие.
 - Программа создавалась для автоматизации базовых функций службы Service Desk и как инструмент для выработки требований к выбору профессионального отраслевого решения.
 
-![Capture1](https://user-images.githubusercontent.com/82776515/180608654-c53adc64-dd2f-4c6b-a6ce-87bfa2e5a10c.JPG)
+
+![Capture1](https://github.com/idalgo-2021/mvp_Service_Desk/assets/82776515/4039d5ed-e31a-4e41-a112-0cbe577c3d12)
+
+
 
 ![Capture2](https://user-images.githubusercontent.com/82776515/180608838-40dec3d5-d33f-4042-895e-781cd5586818.JPG)
 
